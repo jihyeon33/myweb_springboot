@@ -58,6 +58,10 @@
 			<artifactId>jakarta.servlet.jsp.jstl</artifactId>
 			<version>3.0.1</version>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
 
 		<!--//스프링부트 3.0 이상
 		implementation 'jakarta.servlet:jakarta.servlet-api:6.0.0'
